@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsabitgg" alt="tsabitgg" /></a> </p>
 
-- 🔭 I’m currently working on [Donation application](https://github.com/Tsabitgg/Donation-application.git)
+- 🔭 I’m currently working on my brain
 
-- 🌱 I’m currently learning **Java, Spring boot,nodeJs**
+- 🌱 I’m currently learning **Java, Spring boot,nodeJs, php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tsabitgg](https://github.com/Tsabitgg)
 
